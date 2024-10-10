@@ -39,16 +39,13 @@ For practical exercises, you will need to set up PostgreSQL and a SQL environmen
 
 1. Install PostgreSQL:
    Download and install PostgreSQL from the [PostgreSQL Official Site](https://www.postgresql.org/download/).
-
 2. Install pgAdmin:
    pgAdmin is a management tool for PostgreSQL. Download and install it from [pgAdmin Official Site](https://www.pgadmin.org/download/).
-
 3. Create a Database:
    After installing PostgreSQL, you can create a database using pgAdmin or the PostgreSQL command line:
    ```sql
    CREATE DATABASE sd202_db;
    ```
-
 4. Run SQL Queries:
    You can run SQL queries either in pgAdmin's query tool or through the PostgreSQL command line.
 
